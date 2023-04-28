@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NetworkingWithRetrofit</string>
+    <string name="button_add">Button Add</string>
+    <string name="judul_news">Judul News</string>
+    <string name="tanggal_news">Tanggal News</string>
+</resources>
